@@ -1,4 +1,4 @@
-# TODO list
+# TODO 
 ## Clustering
 - [x] DBSCAN
 - [x] K-Means
