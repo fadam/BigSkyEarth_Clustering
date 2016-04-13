@@ -1,0 +1,6 @@
+# TODO list
+- feature selection using Gabor filter (quite generic, can be optimized further), then clustering using DBSCAN (of course the other clustering
+- local variance feature
+- evaluation part
+
+
