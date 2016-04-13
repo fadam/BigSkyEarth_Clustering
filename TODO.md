@@ -1,8 +1,14 @@
 # TODO list
-- feature selection using Gabor filter (quite generic, can be optimized further), then clustering using DBSCAN (of course the other clustering
-- local variance feature
-- evaluation part
-- [x] checked box
-- [ ] not checked
+## Clustering
+- [x] DBSCAN
+- [x] K-Means
+- [ ] Mean Shift
+
+## Feature selection
+- [ ] Feature selection using Gabor filter (quite generic, can be optimized further), then clustering using DBSCAN (of course the other clustering
+- [ ] Local variance
+## Evaluation 
+- [ ] Visual
+- [ ] Metric
 
 
